@@ -1,1 +1,41 @@
+Data Cleaning in Power BI | Power Query | ETL
+Data collected from various sources can be inaccurate as it can have errors , technical issues or other factors , To transform the data into a more accurate , consistent and usable format.
+	• Ensuring Data Accuracy
+	• Enhancing Data Quality
+	• Preventing Inaccurate Insights
+	• Supporting Reliable Analysis
+	• Maintaining Data Consistency
+	• Reducing Data Processing Time
+	• Minimizing Errors in Models and Algorithms
+	• Optimizing Resources
+	• Improving Decision Making
+	• Enhancing Data Collaboration
 
+If Data is not cleaned it will cause : Inaccurate insights, Failed Data Models, Misleading Visualization, False Conclusion, Loss of credibility, wasted resources, Legal and Compliance Issues, Reputational Damage, Difficulty in Integration , Increased Risk.
+Steps To Remember while Cleaning:
+	• Understand Your Data
+	• Focus on Domain Knowledge
+	• Create a backup
+	• Prioritize issues
+	• Std format types
+	• Data Integrity
+	• Use Descriptive Statistics
+	• Test Data Transformation
+	• Iterative Process
+	• Address Data Entry Errors
+	• Test Rigorously
+	• Consider Data Privacy
+	• Automate 
+	• Communicate findings
+	• Validate after cleaning
+
+Data Cleaning:
+	l Remove Unwanted  columns
+	l Check Data Types
+	l Remove Duplicates (Using Col distribution and col profile) Identify the PK and FK
+	l Merge Col (examples : Combine first name and last name to make full name)
+	l Sometimes you might have to also Split columns ( using any separator)
+	l Rename the name if necessary.
+	l Null Values (check col quality)
+	l Replace values as well
+Formatting the Values
