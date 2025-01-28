@@ -30,12 +30,12 @@ Steps To Remember while Cleaning:
 	• Validate after cleaning
 
 Data Cleaning:
-	l Remove Unwanted  columns
-	l Check Data Types
-	l Remove Duplicates (Using Col distribution and col profile) Identify the PK and FK
-	l Merge Col (examples : Combine first name and last name to make full name)
-	l Sometimes you might have to also Split columns ( using any separator)
-	l Rename the name if necessary.
-	l Null Values (check col quality)
-	l Replace values as well
-Formatting the Values
+	• Remove Unwanted  columns
+	• Check Data Types
+	• Remove Duplicates (Using Col distribution and col profile) Identify the PK and FK
+	• Merge Col (examples : Combine first name and last name to make full name)
+	• Sometimes you might have to also Split columns ( using any separator)
+	• Rename the name if necessary.
+	• Null Values (check col quality)
+	• Replace values as well and Formatting the Values
+
